@@ -1,0 +1,15 @@
+# Ignore CubeIDE build folders
+Debug/
+Release/
+
+# Ignore compiled objects and binaries
+*.o
+*.bin
+*.elf
+*.hex
+*.list
+*.map
+
+# Ignore Python cache
+__pycache__/
+*.pyc
